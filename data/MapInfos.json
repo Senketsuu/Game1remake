@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Floresta","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":494.1818181818182},
+{"id":1,"expanded":true,"name":"Floresta","order":1,"parentId":0,"scrollX":811,"scrollY":494},
 {"id":2,"expanded":true,"name":"Entrada da cidade","order":2,"parentId":0,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
 {"id":3,"expanded":true,"name":"Casa do lenhador","order":3,"parentId":2,"scrollX":819,"scrollY":461},
 {"id":4,"expanded":false,"name":"Casa da vó","order":4,"parentId":2,"scrollX":819,"scrollY":461},
@@ -14,5 +14,5 @@ null,
 {"id":12,"expanded":false,"name":"Sala do tesouro 1","order":11,"parentId":10,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
 {"id":13,"expanded":false,"name":"Sala do tesouro 2","order":12,"parentId":10,"scrollX":832,"scrollY":640},
 {"id":14,"expanded":false,"name":"Dormitários","order":13,"parentId":10,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
-{"id":15,"expanded":false,"name":"Sala do chefe","order":14,"parentId":10,"scrollX":893.4545454545455,"scrollY":502.90909090909093}
+{"id":15,"expanded":false,"name":"Sala do chefe","order":14,"parentId":10,"scrollX":819,"scrollY":461}
 ]
