@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Homem misterioso","characterIndex":0,"characterName":"Homem misterioso","classId":2,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"Homem misterioso","traits":[],"initialLevel":50,"maxLevel":99,"name":"Homem misterioso","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Principal","characterIndex":0,"characterName":"Principal","classId":2,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"Principal","traits":[],"initialLevel":25,"maxLevel":99,"name":"Khan","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Homem misterioso","characterIndex":0,"characterName":"Homem misterioso","classId":2,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"Homem misterioso","traits":[],"initialLevel":25,"maxLevel":99,"name":"Homem misterioso","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Principal","characterIndex":0,"characterName":"Principal","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Principal","traits":[],"initialLevel":25,"maxLevel":99,"name":"Khan","nickname":"","note":"","profile":""}
 ]
