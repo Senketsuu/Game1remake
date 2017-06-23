@@ -1,5 +1,6 @@
 [
 null,
 {"id":1,"battlerName":"Homem misterioso","characterIndex":0,"characterName":"Homem misterioso","classId":2,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"Homem misterioso","traits":[],"initialLevel":25,"maxLevel":99,"name":"Homem misterioso","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Principal","characterIndex":0,"characterName":"Principal","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Principal","traits":[],"initialLevel":25,"maxLevel":99,"name":"Khan","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"Principal","characterIndex":0,"characterName":"Principal","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Principal","traits":[],"initialLevel":25,"maxLevel":99,"name":"Khan","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"SV_Wendy","characterIndex":1,"characterName":"Principal","classId":3,"equips":[3,0,2,3,0,4],"faceIndex":0,"faceName":"Wendy","traits":[],"initialLevel":10,"maxLevel":99,"name":"Wendy","nickname":"","note":"","profile":""}
 ]
